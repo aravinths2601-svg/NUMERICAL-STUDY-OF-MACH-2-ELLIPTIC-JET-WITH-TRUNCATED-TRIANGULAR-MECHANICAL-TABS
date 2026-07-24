@@ -41,5 +41,5 @@ Applications :
 
 Author :
 
-Aravinth S
-Aeronautical Engineering
+ARAVINTH S
+Aeronautical Engineering 
